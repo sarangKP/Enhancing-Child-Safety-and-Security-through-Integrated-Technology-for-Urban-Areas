@@ -6,10 +6,6 @@ import time
 import Controller as cnt
 
 
-
-
-
-
 arduino = serial.Serial('/dev/cu.usbmodem1401', 9600)
 def main():
     # OpenCV video capture
