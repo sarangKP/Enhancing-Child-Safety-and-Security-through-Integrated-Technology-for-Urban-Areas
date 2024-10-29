@@ -28,3 +28,9 @@ A real-time child safety alert system designed to enhance surveillance capabilit
 4. Embedded Systems: Integrated into CCTV setups with microcontrollers like Arduino UNO for real-time response.
 6. Alert Management: Automated alerts through integrated channels for caregivers and authorities.
 
+📚 References
+
+## 📚 References
+
+- [DeepFace: A Unified Face Recognition Library](https://github.com/serengil/deepface) - A powerful library for face analysis and recognition, used for building the face detection component of this project.
+
