@@ -28,6 +28,18 @@ A real-time child safety alert system designed to enhance surveillance capabilit
 4. Embedded Systems: Integrated into CCTV setups with microcontrollers like Arduino UNO for real-time response.
 6. Alert Management: Automated alerts through integrated channels for caregivers and authorities.
 
+## 🛠 Embedded System Integration
+
+The project incorporates an Arduino Uno connected to an LED display to mimic an alert system. When a child is detected, the message "Child Detected" is displayed on the LED, providing a visual alert. The integration between the Arduino and the Python code running on the laptop is facilitated by the Firmata library, allowing for seamless communication and control of the Arduino's GPIO pins.
+
+### Setup Instructions for Arduino
+1. Connect the LED Display: Wire the LED display to the Arduino Uno according to the provided schematic.
+2. Upload Firmata Firmware:
+- Open the Arduino IDE.
+- Navigate to File > Examples > Firmata > StandardFirmata.
+- Upload the StandardFirmata sketch to the Arduino Uno.
+3. Run the Python Code: Ensure the Firmata library is installed in your Python environment, and execute the main script to start monitoring for child detection.
+
 
 
 ## 📚 References
