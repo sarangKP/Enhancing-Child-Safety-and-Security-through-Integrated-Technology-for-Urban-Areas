@@ -22,10 +22,10 @@ A real-time child safety alert system designed to enhance surveillance capabilit
 
 ## 💡 Key Technologies
 
-1. Machine Learning: Convolutional Neural Networks (CNNs) for accurate image recognition.
-2. OpenCV: Real-time image and video processing.
-3. Haar-Cascade Classifiers: Object detection for identifying children in crowded areas.
-4. Embedded Systems: Integrated into CCTV setups with microcontrollers like Arduino UNO for real-time response.
+- Machine Learning: Convolutional Neural Networks (CNNs) for accurate image recognition.
+-  OpenCV: Real-time image and video processing.
+-   Haar-Cascade Classifiers: Object detection for identifying children in crowded areas.
+-    bedded Systems: Integrated into CCTV setups with microcontrollers like Arduino UNO for real-time response.
 6. Alert Management: Automated alerts through integrated channels for caregivers and authorities.
 
 ## 🛠 Embedded System Integration
@@ -39,7 +39,6 @@ The project incorporates an Arduino Uno connected to an LED display to mimic an 
 - Navigate to File > Examples > Firmata > StandardFirmata.
 - Upload the StandardFirmata sketch to the Arduino Uno.
 3. Run the Python Code: Ensure the Firmata library is installed in your Python environment, and execute the main script to start monitoring for child detection.
-
 
 
 ## 📚 References
