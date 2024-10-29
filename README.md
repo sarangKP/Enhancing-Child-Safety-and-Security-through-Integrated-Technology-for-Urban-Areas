@@ -23,10 +23,10 @@ A real-time child safety alert system designed to enhance surveillance capabilit
 ## 💡 Key Technologies
 
 - Machine Learning: Convolutional Neural Networks (CNNs) for accurate image recognition.
--  OpenCV: Real-time image and video processing.
--   Haar-Cascade Classifiers: Object detection for identifying children in crowded areas.
--    bedded Systems: Integrated into CCTV setups with microcontrollers like Arduino UNO for real-time response.
-6. Alert Management: Automated alerts through integrated channels for caregivers and authorities.
+- OpenCV: Real-time image and video processing.
+- Haar-Cascade Classifiers: Object detection for identifying children in crowded areas.
+- Ebedded Systems: Integrated into CCTV setups with microcontrollers like Arduino UNO for real-time response.
+- Smart Management: Automated alerts through integrated channels for caregivers and authorities.
 
 ## 🛠 Embedded System Integration
 
